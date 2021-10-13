@@ -1,0 +1,50 @@
+Definition
+
+perceives environment -> takes actions to maximize success
+founded in 1950s
+two general areas:
+ - Symbolic AI
+    - directly mimic all processes of human cognition
+        - percepbtion
+        - robotics
+        - learning
+        - pattern recognition
+ - Statistical AI
+    - narrow down problem
+        -> more efficient models
+    - solve exact task
+has very broad deffinition
+ - Simple things like
+    - search engines
+    - recommendation systems
+ - more complex things like:
+    - speech recognition
+    - self driving cars
+    - automated decision-making
+usually utilizes machine learning
+    - algorithm that improves through experience and data
+    - trains on specific dataset do accieve similar results with new data
+    - area with most headlines: Deep learing
+        - uses neural network
+            - ispired by brain & other biological systems
+
+Example
+
+GPT3
+
+birth year: 2020
+GPT = Generative Pre-trained Transformer
+By Open AI (founded by Elon Musk and others)
+deep learning algorithm
+Artificial general intelligence
+ -> aims at doing everything a human does
+3rd generation of GPT-n series
+one of the biggest models with 175 billion parameters
+hard to differenciate between it and human
+ -> Researchers warn of potential risk
+Now licensed by Microsoft
+ -> API usage still allowed
+Trained on 40GB on internet data
+example implementations on internet
+ - AI Dungeons
+    -> amazing demo 
